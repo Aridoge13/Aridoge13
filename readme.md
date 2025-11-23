@@ -1,4 +1,8 @@
 # Hi, I'm Aritra Mukherjee 👋  
+[![Bioinformatics](https://img.shields.io/badge/Focus-Conservation_Genomics-2ea44f?style=flat-square)](https://aridoge13.github.io/)
+[![Workflow](https://img.shields.io/badge/Workflow-Snakemake_%7C_Nextflow-005f87?style=flat-square)](https://github.com/Aridoge13)
+[![Status](https://img.shields.io/badge/Status-Building_Pangenomes-orange?style=flat-square)](https://github.com/Aridoge13)
+
 **Conservation Genomics | Pangenomes | Structural Variation | HPC-Scale Bioinformatics**
 
 I work at the intersection of **evolutionary biology** and **large-scale computational genomics**, building reproducible workflows to study **genetic load**, **structural variants**, and **lineage divergence** in endangered mammals. My primary focus is on **pangenome-driven conservation genomics**, where long-read assemblies and graph genomes inform real-world management decisions (connectivity, hybridization risk, and genetic rescue).
