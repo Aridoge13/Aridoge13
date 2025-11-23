@@ -10,7 +10,7 @@ I work at the intersection of **evolutionary biology** and **large-scale computa
 
 ## 🔬 What I Work On
 - **Conservation Genomics Pipelines**  
-  Long-read genome assembly (Flye, hifiasm), SV detection (Sniffles2, SVIM), pangenome graphs (Minigraph/VG), deleteriousness scoring (CADD/SIFT), and genetic load estimation for non-model vertebrates.
+  Long-read genome assembly (Flye, hifiasm), SV detection (Sniffles2, SVIM), pangenome graphs (Minigraph/VG), deleteriousness scoring (CADD/SIFT), phylogenetic tree construction, variant annotation, population genetics, lineage assessment, sequence analysis, transcriptomics and genetic load estimation for non-model vertebrates.
 
 - **Population & Evolutionary Genomics**  
   PCA, ADMIXTURE, ROH/FROH, phylogenetics, demographic inference, lineage assignment.
@@ -27,7 +27,7 @@ I work at the intersection of **evolutionary biology** and **large-scale computa
 
 ### 🔹 **Computational Biology Toolkit (Conservation Genomics Branch)**  
 Pangenome construction, SV annotation, deleterious variant scoring, and automated Snakemake workflows for endangered species genomics.  
-➡️ `github.com/Aridoge13/Computational_Biology`
+➡️ `github.com/Aridoge13/Computational_Biology/Conservation`
 
 ### 🔹 **Evo-Genomics Pipeline**  
 Transcriptome-guided genome annotation + multi-assembly extensions for population-level evolutionary analyses.  
