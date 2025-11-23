@@ -1,7 +1,10 @@
 # Hi, I'm Aritra Mukherjee 👋  
-[![Bioinformatics](https://img.shields.io/badge/Focus-Conservation_Genomics-2ea44f?style=flat-square)](https://aridoge13.github.io/)
-[![Workflow](https://img.shields.io/badge/Workflow-Snakemake_%7C_Nextflow-005f87?style=flat-square)](https://github.com/Aridoge13)
-[![Status](https://img.shields.io/badge/Status-Building_Pangenomes-orange?style=flat-square)](https://github.com/Aridoge13)
+![Conservation](https://img.shields.io/badge/Focus-Conservation_Genomics-2ea44f?style=flat-square)
+![LongRead](https://img.shields.io/badge/Long_Reads-Oxford_Nanopore_%7C_PacBio-4b8bbe?style=flat-square)
+![Pangenome](https://img.shields.io/badge/Pangenome-Minigraph_%7C_VG-1f6feb?style=flat-square)
+![SV](https://img.shields.io/badge/SV_Detection-Sniffles2_%7C_SVIM-8e44ad?style=flat-square)
+![Workflow](https://img.shields.io/badge/Reproducibility-Snakemake_%7C_Containers-1abc9c?style=flat-square)
+![HPC](https://img.shields.io/badge/HPC-SLURM_%7C_Mamba-34495e?style=flat-square)
 
 **Conservation Genomics | Pangenomes | Structural Variation | HPC-Scale Bioinformatics**
 
