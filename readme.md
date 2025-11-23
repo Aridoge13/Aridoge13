@@ -61,7 +61,7 @@ Neural networks + ensemble models for transcriptomic classification; SHAP-based 
   [kaggle.com/aridoge13](https://www.kaggle.com/aridoge13)  
 - 📚 Passionate about bridging **livestock genomics → wildlife genomics**, inspired by recent conservation-focused tool development in the field  
 - 🌍 Experience communicating genomic findings to **wildlife departments** and conservation stakeholders  
-- 🙏 Do Only Good Everyday — my guiding principle
+- 😊 Do Only Good Everyday — my guiding principle
 ---
 
 ## 📫 Connect
