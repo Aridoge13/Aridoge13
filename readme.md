@@ -72,7 +72,7 @@ Neural networks + ensemble models for transcriptomic classification; SHAP-based 
 ---
 
 ## 📫 Connect
-**Email:** [Email](aritra.mukherjee98@gmail.com ) 
-**LinkedIn:** [LinkedIn](www.linkedin.com/in/aritra-mukherjee-82b070125)  
-**Kaggle:** https://www.kaggle.com/aridoge13  
-**Portfolio:** https://aridoge13.github.io/  
+[**Email:**] (aritra.mukherjee98@gmail.com ) 
+[**LinkedIn:**] (www.linkedin.com/in/aritra-mukherjee-82b070125)  
+[**Kaggle:**] (https://www.kaggle.com/aridoge13)  
+[**Portfolio:**] (https://aridoge13.github.io/)  
