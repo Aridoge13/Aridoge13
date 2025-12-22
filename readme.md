@@ -64,7 +64,7 @@ Neural networks + ensemble models for transcriptomic classification; SHAP-based 
 
 ## 🏆 Additional Signals
 - 🐘 Actively transitioning my computational expertise toward **Asian elephant conservation genomics**  
-- 📈 2× Bronze Medals on Kaggle:  
+- 📈 5× Bronze Medals on Kaggle:  
   [kaggle.com/aridoge13](https://www.kaggle.com/aridoge13)  
 - 📚 Passionate about bridging **livestock genomics → wildlife genomics**, inspired by recent conservation-focused tool development in the field  
 - 🌍 Experience communicating genomic findings to **wildlife departments** and conservation stakeholders  
