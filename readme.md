@@ -74,6 +74,6 @@ Neural networks + ensemble models for transcriptomic classification; SHAP-based 
 ## 📫 Connect
 - Email: [📨](aritra.mukherjee98@gmail.com)
 - Linkedin: [Aritra_Mukherjee](www.linkedin.com/in/aritra-mukherjee-82b070125)
-- ORCID:[Aritra_Mukherjee](https://orcid.org/0000-0002-6061-611X)
+- ORCID: [Aritra_Mukherjee](https://orcid.org/0000-0002-6061-611X)
 - Portfolio: [Aritra_Mukherjee](https://aridoge13.github.io/)  
 - Kaggle: [Aritra_Mukherjee](https://www.kaggle.com/aridoge13)
