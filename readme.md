@@ -1,79 +1,100 @@
 # Hi, I'm Aritra Mukherjee 👋  
-![Conservation](https://img.shields.io/badge/Focus-Conservation_Genomics-2ea44f?style=flat-square)
-![LongRead](https://img.shields.io/badge/Long_Reads-Oxford_Nanopore_%7C_PacBio-4b8bbe?style=flat-square)
-![Pangenome](https://img.shields.io/badge/Pangenome-Minigraph_%7C_VG-1f6feb?style=flat-square)
-![SV](https://img.shields.io/badge/SV_Detection-Sniffles2_%7C_SVIM-8e44ad?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Cancer_Genomics-2ea44f?style=flat-square)
+![Evolution](https://img.shields.io/badge/Theme-Tumor_Evolution-4b8bbe?style=flat-square)
+![Immunogenomics](https://img.shields.io/badge/Domain-Immunogenomics-1f6feb?style=flat-square)
+![Modeling](https://img.shields.io/badge/Approach-Interpretable_Modeling-8e44ad?style=flat-square)
 ![Workflow](https://img.shields.io/badge/Reproducibility-Snakemake_%7C_Containers-1abc9c?style=flat-square)
 ![HPC](https://img.shields.io/badge/HPC-SLURM_%7C_Mamba-34495e?style=flat-square)
 
-**Conservation Genomics | Pangenomes | Structural Variation | HPC-Scale Bioinformatics**
+**Cancer Genomics | Tumor Evolution | Computational Modeling | Reproducible Bioinformatics**
 
-I work at the intersection of **evolutionary biology** and **large-scale computational genomics**, building reproducible workflows to study **genetic load**, **structural variants**, and **lineage divergence** in endangered mammals. My primary focus is on **pangenome-driven conservation genomics**, where long-read assemblies and graph genomes inform real-world management decisions (connectivity, hybridization risk, and genetic rescue).
+I study cancer as an evolving biological system shaped by mutation, selection, immune pressure, and genomic context. My work focuses on building reproducible analytical frameworks that connect large-scale sequencing data with interpretable models of tumor dynamics. I am particularly interested in simulation-informed reasoning, clonal evolution, immune escape, and deriving biologically meaningful insights from noisy high-dimensional data.
 
-💡 Motto: Do Only Good Everyday.
+💡 Motto: Do Only Good Everyday.  
 (That’s why the GitHub ID is Aridoge13.)
 
 ---
 
 ## 🔬 What I Work On
-- **Conservation Genomics Pipelines**  
-  Long-read genome assembly (Flye, hifiasm), SV detection (Sniffles2, SVIM), pangenome graphs (Minigraph/VG), deleteriousness scoring (CADD/SIFT), phylogenetic tree construction, variant annotation, population genetics, lineage assessment, sequence analysis, transcriptomics and genetic load estimation for non-model vertebrates.
 
-- **Population & Evolutionary Genomics**  
-  PCA, ADMIXTURE, ROH/FROH, phylogenetics, demographic inference, lineage assignment.
+### 🧬 Cancer & Evolutionary Genomics  
+- Variant analysis, clonal structure inference, and evolutionary interpretation  
+- Neoantigen-related genomic features and immune interaction signals  
+- Population genetics concepts applied to tumor evolution  
+- Phylogenetic reasoning for reconstructing lineage dynamics  
 
-- **Reproducible Workflow Engineering**  
-  Snakemake + SLURM, containerization (Conda/Mamba/Docker), cloud/HPC orchestration.
+### 📊 Computational Modeling & Inference  
+- Interpretable machine learning for biological data  
+- Stability analysis and dataset-shift detection  
+- Calibration and uncertainty-aware prediction  
+- Temporal modeling and deviation-based inference  
 
-- **Machine Learning (Support Skills)**  
-  I use ML primarily for **downstream interpretation**—feature attribution, risk scoring, and transparency for conservation decisions.
+### ⚙️ Reproducible Workflow Engineering  
+- Scalable pipelines for large sequencing datasets  
+- Snakemake + SLURM for HPC environments  
+- Containerized analysis (Conda/Mamba/Docker)  
+- Transparent, documented workflows  
+
+### 🤖 Machine Learning for Biological Insight  
+I use ML as a tool for understanding biological mechanisms, not as a substitute for them. Emphasis is on interpretability, robustness, and generalization rather than purely predictive performance.
 
 ---
 
 ## 🧰 Featured Repositories
 
-### 🔹 **Computational Biology Toolkit (Conservation Genomics Branch)**  
-Pangenome construction, SV annotation, deleterious variant scoring, and automated Snakemake workflows for endangered species genomics.  
-➡️ `github.com/Aridoge13/Computational_Biology/Conservation`
-
-### 🔹 **Evo-Genomics Pipeline**  
-Transcriptome-guided genome annotation + multi-assembly extensions for population-level evolutionary analyses.  
-➡️ `github.com/Aridoge13/Evo-Genomics`
-
-### 🔹 **Kabosu** (ML for Multi-omics — Supporting Project)  
-Neural networks + ensemble models for transcriptomic classification; SHAP-based interpretability.  
+### 🔹 **Kabosu — Interpretable Modeling Framework for Biomedical Data**  
+A hypothesis-driven system designed to identify stable, mechanistic predictors across heterogeneous cohorts. Incorporates dataset-shift detection, stability analysis, and SHAP-based interpretation.  
 ➡️ `github.com/Aridoge13/Kabosu`
+
+---
+
+### 🔹 **HAMON — Temporal Risk Modeling Framework**  
+Longitudinal modeling system using latent-state reasoning and calibrated probabilistic outputs. Demonstrates deviation-based inference, uncertainty handling, and separation of predictive modeling from language-based interpretation.  
+➡️ Repository coming soon
+
+---
+
+### 🔹 **Evolutionary Genomics Projects**  
+Phylogenetic and population-genetic analyses aimed at reconstructing evolutionary histories from sequencing data. Conceptually aligned with clonal inference problems in cancer.  
+
+---
+
+### 🔹 **Computational Biology Toolkit**  
+Modular scripts and workflows for sequence analysis, annotation, and large-scale genomic data processing.  
+➡️ `github.com/Aridoge13/Computational_Biology`
 
 ---
 
 ## 🧠 Skills & Domains
 
-**Genomics & Bioinformatics:**  
-`Long-read Assembly` · `Pangenomes` · `SV Calling` · `Population Genetics` · `Genetic Load` · `Hybridization Risk` · `Comparative Genomics`
+**Cancer & Evolutionary Analysis:**  
+`Variant Interpretation` · `Clonal Reasoning` · `Phylogenetics` · `Population Genetics`
+
+**Modeling & Data Science:**  
+`Interpretable ML` · `Calibration` · `Uncertainty Analysis` · `Temporal Features`
 
 **Workflow Engineering:**  
-`Snakemake` · `SLURM` · `Containers` · `Version Control` · `Cloud Pipelines`
+`Snakemake` · `SLURM` · `Containers` · `Version Control` · `Cloud/HPC`
 
 **Programming:**  
-`Python` · `R` · `Bash` · `Linux/HPC`
-
-**Machine Learning (Support):**  
-`Interpretability` · `Feature Scoring` · `RF/NN Models` · `Model Evaluation`
+`Python` · `R` · `Bash` · `Linux`
 
 ---
 
 ## 🏆 Additional Signals
-- 🐘 Actively transitioning my computational expertise toward **Asian elephant conservation genomics**  
-- 📈 5× Bronze Medals on Kaggle:  
-  [kaggle.com/aridoge13](https://www.kaggle.com/aridoge13)  
-- 📚 Passionate about bridging **livestock genomics → wildlife genomics**, inspired by recent conservation-focused tool development in the field  
-- 🌍 Experience communicating genomic findings to **wildlife departments** and conservation stakeholders  
-- 😊 Do Only Good Everyday — my guiding principle
+
+- 🧠 Independent projects focused on interpretable and mechanistic modeling  
+- 📊 Experience working with noisy biomedical datasets  
+- 🧪 Background in immunogenomics and evolutionary biology  
+- 🔁 Strong emphasis on reproducibility and transparency  
+- 😊 Guided by the principle: Do Only Good Everyday  
+
 ---
 
 ## 📫 Connect
-- Email: [📨](aritra.mukherjee98@gmail.com)
-- Linkedin: [Aritra_Mukherjee](www.linkedin.com/in/aritra-mukherjee-82b070125)
-- ORCID: [Aritra_Mukherjee](https://orcid.org/0000-0002-6061-611X)
-- Portfolio: [Aritra_Mukherjee](https://aridoge13.github.io/)  
-- Kaggle: [Aritra_Mukherjee](https://www.kaggle.com/aridoge13)
+
+- [Email](aritra.mukherjee98@gmail.com) 
+- [LinkedIn](www.linkedin.com/in/aritra-mukherjee-82b070125)  
+- [ORCID](https://orcid.org/0000-0002-6061-611X)
+- [Portfolio](https://aridoge13.github.io/)  
+- [Kaggle](https://www.kaggle.com/aridoge13) 
