@@ -1,33 +1,52 @@
 # Hi, I am Aritra 👋
 
-I work at the intersection of computational biology, machine learning, and systems-level biological modelling. My focus is on developing reproducible analytical pipelines, regulatory network inference workflows, and computational frameworks for exploring complex and heterogeneous biological systems.
+I work at the intersection of computational biology, evolutionary genomics, and microbial systems analysis. My focus is on developing reproducible computational frameworks for comparative genomics, phylogenomics, metagenomics, transcriptomics, and large-scale biological inference across complex and heterogeneous datasets.
 
-I am particularly interested in problems that involve:
-- Genomics, transcriptomics, and multi-omics integration
-- Gene regulatory network inference and systems biology
-- Mechanism-aware and multi-label modelling in biological systems
-- Machine learning for high-dimensional and noisy biological data
-- Scientific software development and reproducible research workflows
-- Scalable computing using Linux, HPC, and cloud environments
+I am particularly interested in:
+
+* Archaeal evolution, microbial symbiosis, and genome streamlining
+* Comparative genomics and phylogenomic reconstruction
+* Metagenomics and uncultured microbial diversity
+* Genome organisation, sequence composition, and evolutionary inference
+* Machine learning approaches for high-dimensional biological data
+* Reproducible scientific software and scalable genomics workflows
+* Linux, HPC, and cloud-native computational biology
 
 ## What you’ll find here
-- Research-oriented computational biology projects
-- Reproducible genomics and transcriptomics workflows
-- Machine learning and systems biology frameworks
-- Regulatory network inference pipelines
-- Tools designed for modularity, scalability, and interpretability
+
+* Comparative and evolutionary genomics projects
+* Reproducible genomics and metagenomics workflows
+* Phylogenetics and microbial genome analysis pipelines
+* Transcriptomics and regulatory network inference frameworks
+* Machine learning projects for biological sequence analysis
+* Modular tools designed for scalability, reproducibility, and biological interpretability
+
+## Current Research Direction
+
+My current independent work focuses on:
+
+* Comparative genome reduction analysis in host-dependent microbial systems
+* Archaeal genome organisation and GC skew analysis
+* Transcriptome-guided comparative genomics workflows
+* Gene regulatory network inference using PANDA and LIONESS
+* Multi-omics integration through the Kabosu framework
+* Machine learning approaches for antimicrobial peptide classification
+
 ## Philosophy
-I believe computational biology should prioritize:
-- Transparency, where analytical decisions are interpretable
-- Reproducibility, where results can be independently rebuilt
-- Biological relevance, where models reflect system-level complexity
-- Practicality, where tools are usable beyond a single dataset or project
 
-## Currently, I am: 
-- Developing regulatory network inference pipelines for cancer genomics
-- Building mechanism-aware modelling approaches for antimicrobial biology
-- Expanding the Kabosu framework for multi-omics integration
-- Preparing for doctoral research in computational biology and systems biology
+I believe computational biology should prioritise:
 
-## You can contact me or find me on other platforms on: 
-[Email](aritra.mukherjee98@gmail.com) , [Kaggle](https://www.kaggle.com/aridoge13), [Portfolio](https://aridoge13.github.io/) , [ORCID](https://orcid.org/0000-0002-6061-611X) , [LinkedIn](www.linkedin.com/in/aritra-mukherjee-82b070125) 
+* Biological interpretability over black-box prediction
+* Reproducibility over irreproducible optimisation
+* Evolutionary reasoning over purely descriptive analysis
+* Modular and reusable scientific software
+* Scalable workflows that remain biologically meaningful
+
+More broadly, I see computational biology not simply as data analysis, but as a framework for reconstructing biological processes and evolutionary history from complex genomic systems.
+
+## Platforms & Contact
+* [Email](aritra.mukherjee98@gmail.com)
+* [Kaggle](https://www.kaggle.com/aridoge13)
+* [Portfolio](https://aridoge13.github.io/)
+* [ORCID](https://orcid.org/0000-0002-6061-611X)
+* [LinkedIn](www.linkedin.com/in/aritra-mukherjee-82b070125) 
