@@ -11,9 +11,10 @@ Feel free to explore my repositories to get a better sense of the kind of work I
 
 
 I believe in *Do Only Good Everyday!*
-As human beings we must look out for one another and our beloved planet. That is why I study the complex biological process through an in-silico lens to understand the deeper connection of life to our planet. 
+As human beings, we should look out for one another and for the planet we share.
+My interest in computational biology comes from a desire to better understand complex biological systems through an in-silico lens and contribute, even in a small way, to scientific progress.
 
-Every unanswered question about life on our planet is a mystery that helps us understand and create a better world for the future generations to come.
+Every unanswered biological question is another opportunity to better understand life and the world around us.
 
 
 
