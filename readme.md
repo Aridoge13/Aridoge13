@@ -9,8 +9,8 @@ I am currently looking for PhD positions centered around computational biology a
 Feel free to explore my repositories to get a better sense of the kind of work I do. 
 
 
-## Personal Motto: 
-*Do Only Good Everyday!*
+
+I believe in *Do Only Good Everyday!*
 As human beings we must look out for one another and our beloved planet. That is why I study the complex biological process through an in-silico lens to understand the deeper connection of life to our planet. 
 
 Every unanswered question about life on our planet is a mystery that helps us understand and create a better world for the future generations to come.
