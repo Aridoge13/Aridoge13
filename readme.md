@@ -1,4 +1,4 @@
-<img align="right" src="./assets/tigidi_hope.jpg" width="180">
+<img align="right" src="./assets/tigidi_hope.jpg" width="90">
 
 # Hi, I am Aritra 👋
 
