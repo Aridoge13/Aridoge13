@@ -2,11 +2,12 @@
 
 I work in computational biology, with a focus on genomics, machine learning, and reproducible scientific computing.
 
+<img align="right" src="./assets/tigidi_hope.jpg" width="180">
+
 I am currently looking for PhD positions centered around computational biology and bioinformatics.
 
 Feel free to explore my repositories to get a better sense of the kind of work I do. 
 
-<img align="right" src="./assets/tigidi_hope.jpg" width="180">
 
 ## Personal Motto: 
 *Do Only Good Everyday!*
